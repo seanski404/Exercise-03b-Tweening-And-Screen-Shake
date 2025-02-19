@@ -1,6 +1,6 @@
 # Exercise-03b-Tweening-and-Screen-Shake
 
-Exercise for MSCH-C220
+Exercise for Sean Billups
 
 The second exercise adding "juicy" features to a simple brick-breaker game.
 
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Sean Billups
